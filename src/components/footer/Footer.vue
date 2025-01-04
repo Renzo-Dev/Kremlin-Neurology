@@ -1,11 +1,7 @@
 <template>
-  <footer>Hello</footer>
+  <footer>Footer</footer>
 </template>
 
-<script setup>
+<script setup></script>
 
-</script>
-
-<style lang="scss">
-
-</style>
+<style lang="scss"></style>
